@@ -27,7 +27,7 @@ function Header() {
                 </div>
 
                 <div className='header__option'>
-                    <span className='header__optionLineOne'>Your</span>
+                    <span className='header__optionLineOne'>Our</span>
                     <span className='header__optionLineTwo'>Journey</span>
                 </div>
 

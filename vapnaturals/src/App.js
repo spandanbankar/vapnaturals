@@ -9,7 +9,6 @@ function App() {
     //BEM convention
     <div className="app">
       <Header />
-
       <Home />
     </div>
   );
